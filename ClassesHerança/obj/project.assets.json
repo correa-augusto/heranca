@@ -8,26 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ALUNO\\.nuget\\packages\\": {}
+    "C:\\Users\\Augusto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALUNO\\Desktop\\herança\\ClassesHerança\\ClassesHerança.csproj",
+      "projectUniqueName": "C:\\Users\\Augusto\\Desktop\\heranca\\heranca\\ClassesHerança\\ClassesHerança.csproj",
       "projectName": "ClassesHerança",
-      "projectPath": "C:\\Users\\ALUNO\\Desktop\\herança\\ClassesHerança\\ClassesHerança.csproj",
-      "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALUNO\\Desktop\\herança\\ClassesHerança\\obj\\",
+      "projectPath": "C:\\Users\\Augusto\\Desktop\\heranca\\heranca\\ClassesHerança\\ClassesHerança.csproj",
+      "packagesPath": "C:\\Users\\Augusto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Augusto\\Desktop\\heranca\\heranca\\ClassesHerança\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Augusto\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

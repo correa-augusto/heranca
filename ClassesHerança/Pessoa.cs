@@ -1,5 +1,8 @@
+using System.Security.Cryptography.X509Certificates;
+
 namespace ClassesHerança;
-public class Pessoa
+//AUGUSTO DOS SANTOS CORREA
+public abstract class Pessoa
 {
 public string Nome { get; set; }
 public string Cpf { get; set; }
@@ -14,9 +17,13 @@ Rg = rg;
 Logradouro = logradouro ?? new Endereco();
 }
 
+// método abstrato, não tem implementação, deve ser implementado nas classes derivadas
+public abstract List<(string campo,string valor)> RetornarDados();
+
+
     public override string ToString()
     {
-        return $"{GetType().Name} => Nome: {Nome}, CPF: {Cpf}, RG: {Rg}, Endereço: {Logradouro.Rua}";
+        return $"{GetType().Name} => Nome: {Nome}, CPF: {Cpf}, RG: {Rg}, Endereço: {Logradouro.Rua}\n";
     }
 
 }

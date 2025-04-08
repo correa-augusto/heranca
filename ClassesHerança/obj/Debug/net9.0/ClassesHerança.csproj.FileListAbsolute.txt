@@ -10,3 +10,15 @@ C:\Users\ALUNO\Desktop\herança\ClassesHerança\obj\Debug\net9.0\ClassesHerança
 C:\Users\ALUNO\Desktop\herança\ClassesHerança\obj\Debug\net9.0\refint\ClassesHerança.dll
 C:\Users\ALUNO\Desktop\herança\ClassesHerança\obj\Debug\net9.0\ClassesHerança.pdb
 C:\Users\ALUNO\Desktop\herança\ClassesHerança\obj\Debug\net9.0\ref\ClassesHerança.dll
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\bin\Debug\net9.0\ClassesHerança.deps.json
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\bin\Debug\net9.0\ClassesHerança.dll
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\bin\Debug\net9.0\ClassesHerança.pdb
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ClassesHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ClassesHerança.AssemblyInfoInputs.cache
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ClassesHerança.AssemblyInfo.cs
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ClassesHerança.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ClassesHerança.sourcelink.json
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ClassesHerança.dll
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\refint\ClassesHerança.dll
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ClassesHerança.pdb
+C:\Users\Augusto\Desktop\heranca\heranca\ClassesHerança\obj\Debug\net9.0\ref\ClassesHerança.dll

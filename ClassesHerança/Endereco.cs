@@ -1,4 +1,5 @@
 namespace ClassesHerança;
+//AUGUSTO DOS SANTOS CORREA
 public class Endereco
 {
 public string Rua { get; set; }
@@ -17,4 +18,9 @@ Cidade = cidade;
 Estado = estado;
 Cep = cep;
 }
+
+    public override string ToString()
+    {
+        return $"{Rua}, {Numero}, {Cidade}";
+    }
 }
